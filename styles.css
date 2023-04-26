@@ -28,7 +28,7 @@ body {
 .container {
 	width: 1200px;
 	margin: 0 auto;
-	padding: 50px 35px;
+	padding: 30px 24px;
 }
 
 /* Typography */
@@ -103,7 +103,7 @@ header nav ul {
 	padding: 0;
 	list-style: none;
 	display: inline-block;
-	line-height: 50px;
+	line-height: 140px;
 }
 
 header nav ul li {
